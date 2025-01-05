@@ -1,4 +1,4 @@
-# Hey, I'm Moiz 👋
+# Hey, I'm Moiz :)
 
 Welcome to my GitHub profile! I'm a software developer with a passion for JavaScript and TypeScript. I'm constantly exploring new ways to improve my skills and create innovative solutions.
 
@@ -16,16 +16,7 @@ Welcome to my GitHub profile! I'm a software developer with a passion for JavaSc
 
 ## 💬 Let's Connect!
 
-- **LinkedIn**: [Moiz LinkedIn](https://www.linkedin.com/in/yourname/)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **Website**: [yourwebsite.com](https://yourwebsite.com)
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
+- **LinkedIn**: [Moiz LinkedIn](https://www.linkedin.com/in/abdul-moiz-sheraz-218117229/)
 ---
 
 ## 🧩 Fun Facts
